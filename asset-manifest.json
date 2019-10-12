@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rozumsoft.by/static/css/main.498d002a.chunk.css",
+    "main.js": "/rozumsoft.by/static/js/main.fbcd96e3.chunk.js",
+    "main.js.map": "/rozumsoft.by/static/js/main.fbcd96e3.chunk.js.map",
+    "runtime-main.js": "/rozumsoft.by/static/js/runtime-main.5600e354.js",
+    "runtime-main.js.map": "/rozumsoft.by/static/js/runtime-main.5600e354.js.map",
+    "static/js/2.ecc9f0ee.chunk.js": "/rozumsoft.by/static/js/2.ecc9f0ee.chunk.js",
+    "static/js/2.ecc9f0ee.chunk.js.map": "/rozumsoft.by/static/js/2.ecc9f0ee.chunk.js.map",
+    "index.html": "/rozumsoft.by/index.html",
+    "precache-manifest.15fddeee2029100d973401bd2f9220ee.js": "/rozumsoft.by/precache-manifest.15fddeee2029100d973401bd2f9220ee.js",
+    "service-worker.js": "/rozumsoft.by/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/rozumsoft.by/static/css/main.498d002a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5600e354.js",
+    "static/js/2.ecc9f0ee.chunk.js",
+    "static/css/main.498d002a.chunk.css",
+    "static/js/main.fbcd96e3.chunk.js"
+  ]
+}
